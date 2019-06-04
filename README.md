@@ -43,6 +43,7 @@ python3 manage.py makemigrations meetings
 python3 manage.py migrate
 python3 manage.py runserver
 
+# Run frontend
 cd hw2/meetings_front/
 npm install
 npm start
